@@ -46,4 +46,5 @@ For further reference, please consider the following sections:
 
 
 <h1>打赏</h1>
-![](https://github.com/woshixiaotongtong/listener-mongo-spring-boot-starter-autoconfigurer/blob/main/images/%E6%94%B6%E6%AC%BE%E7%A0%81.jpeg)
+
+![image](https://github.com/woshixiaotongtong/listener-mongo-spring-boot-starter-autoconfigurer/blob/main/images/%E6%94%B6%E6%AC%BE%E7%A0%81.png)
