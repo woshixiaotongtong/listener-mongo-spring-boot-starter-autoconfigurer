@@ -43,3 +43,7 @@ For further reference, please consider the following sections:
   由于在创建changeStream是就需要放入token，所以目前想法使用aop解决，后续完善，另外token需要持久化，待定持久化到何地。
 - 3.starter还没有完善
 - 4.当没有mongoClient的连接是，目前的连接配置是否可以在spring-data-mongo的配置基础上添加
+
+
+<h1>打赏</h1>
+![](https://github.com/woshixiaotongtong/listener-mongo-spring-boot-starter-autoconfigurer/blob/main/images/%E6%94%B6%E6%AC%BE%E7%A0%81.jpeg)
