@@ -1,0 +1,11 @@
+mongo:
+  watch:
+    userName: uat_pw_im_signin
+    password: VbTcVfSmM7
+    mongoHosts: '10.115.91.3,10.115.91.4,10.115.91.5'
+    port: 27040
+    database: db_im_100000108
+    enable: true
+    collection: t_group
+server:
+  port: 8080
